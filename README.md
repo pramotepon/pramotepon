@@ -1,10 +1,10 @@
 # Hi there 👋
 
 ## My name is Pramote Phanon (Plug)
-I'am Full stack developer. Start my skill is PHP,HTML,CSS and Mysql but after starting work me practice and learn more skills. Add to be able to work with the team and increase my own ability. Therefore, I can learn new things for maximum efficiency at work.
+I'am Full stack developer. Start my skill is PHP,HTML,CSS and Mysql but after starting work me practice and learn more skills. Add to be able to work with the team and increase my own ability. Therefore, **I can learn new things for maximum efficiency at work.**
 
 ---
-# My Skill
+# :sparkles::sparkles: My Skill :sparkles::sparkles:
 ## Text Editor
 <div>
   <img alt="Php" width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/text%20editors/vscode.svg"/>
