@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**pramotepon/pramotepon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Pramote Phanon (Plug)
+I'am Full stack developer. Start my skill is PHP,HTML,CSS and Mysql but after starting work me practice and learn more skills. Add to be able to work with the team and increase my own ability. Therefore, I can learn new things for maximum efficiency at work.
 
-Here are some ideas to get you started:
+---
+# My Skill
+## Text Editor
+<div>
+  <img alt="Php" width="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/text%20editors/vscode.svg"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programing Language
+<div>
+<img alt="Php" width="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/html.svg"/>
+<img alt="Php" width="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/css.svg"/>
+<img alt="Php" width="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png"/>
+<img alt="Php" width="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/javascript.svg"/>
+</div>
+
+## Framework
+<div>
+<img alt="Php" width="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/boostrap.svg"/>
+<img alt="Php" width="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/codeigniter.svg"/>
+<img alt="Php" width="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/laravel.svg"/>
+<img alt="Php" width="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/nodejs.svg"/>
+</div>
